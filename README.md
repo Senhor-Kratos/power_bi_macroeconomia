@@ -13,11 +13,6 @@ O relatório reúne indicadores macroeconômicos em duas páginas:
 
 Os cartões de valor recente devem usar medidas filtradas para a última data disponível. O gráfico anual apresenta o IPCA acumulado de janeiro a dezembro; o ano corrente é parcial.
 
-<!-- Adicione as capturas em uma pasta `assets/` no repositório e remova os comentários abaixo.
-![Página 1 — Visão geral](assets/visao-geral.png)
-![Página 2 — Análise anual](assets/analise-anual.png)
--->
-
 ## Indicadores
 
 | Indicador | Descrição | Série BCB |
@@ -58,8 +53,6 @@ As leituras são descritivas. O painel permite explorar a evolução conjunta da
 - capturas de tela do relatório:
 <img width="2995" height="1674" alt="Macroeconomia_Brasil Copy2 Copy_pages-to-jpg-0001" src="https://github.com/user-attachments/assets/57c92ab8-8f6d-4b78-b994-91e0d4cc38b8" />
 <img width="2995" height="1671" alt="Macroeconomia_Brasil Copy2 Copy_pages-to-jpg-0002" src="https://github.com/user-attachments/assets/203393e6-1588-4a92-856c-3c8065d7ff5b" />
-
-
 
 ## Fontes oficiais
 
