@@ -55,7 +55,11 @@ As leituras são descritivas. O painel permite explorar a evolução conjunta da
 ## Arquivos do projeto
 
 - [`Macroeconomia_Brasil.pbix`](Macroeconomia_Brasil.pbix) — relatório Power BI.
-- `assets/` — capturas de tela do relatório (a adicionar).
+- capturas de tela do relatório:
+<img width="2995" height="1674" alt="Macroeconomia_Brasil Copy2 Copy_pages-to-jpg-0001" src="https://github.com/user-attachments/assets/57c92ab8-8f6d-4b78-b994-91e0d4cc38b8" />
+<img width="2995" height="1671" alt="Macroeconomia_Brasil Copy2 Copy_pages-to-jpg-0002" src="https://github.com/user-attachments/assets/203393e6-1588-4a92-856c-3c8065d7ff5b" />
+
+
 
 ## Fontes oficiais
 
